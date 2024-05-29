@@ -106,7 +106,7 @@ const Research = () => {
                         {/* Primer working paper */}
                         <li className="espacioLista">“Traffic Congestion and Labor Supply: Evidence from Smartphone data in Mexico”</li>
                         {/* Segundo working paper */}
-                        <li className="espacioLista">“Nobody’s Watching: COVID-19, Monitoring, and the Amazon Rainforest”, with Jerico Fiestas and Javier Montoya (Under review).</li>
+                        <li className="espacioLista">“Nobody’s Watching: COVID-19, Monitoring, and the Amazon Rainforest”, with Jerico Fiestas and Javier Montoya (Submitted).</li>
                         {/* Tercer working paper */}
                         <li className="espacioLista">“Is it Too Hot to Work? Evidence from Peru” (Submitted)</li>
                     </ul>
